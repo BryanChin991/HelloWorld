@@ -1,4 +1,5 @@
 print('ha')
 a = 2
 b = 3
-print(%d * %d, %(a,b))
+c = a*b
+print("%d time %d is %d" %(a,b,c))
